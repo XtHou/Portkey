@@ -9,7 +9,6 @@ Welcome to Portkey's documentation!
 
 
 .. toctree::
-   :caption: Introduction
    Introduction <introduction/introduction>
 
 
