@@ -33,5 +33,4 @@ Welcome to Portkey's documentation!
 
 .. toctree::
    :caption: Terms of Service
-   :maxdepth: 1
    Terms of Service <Terms-of-Service/Terms-of-Service>
