@@ -9,9 +9,9 @@ Welcome to Portkey's documentation!
 
 
 .. toctree::
-
+   :caption: Introduction
+   :maxdepth: 2
    Introduction <Introduction>
-   Terms of Service <Terms-of-Service>
 
 
 .. toctree::
@@ -21,8 +21,20 @@ Welcome to Portkey's documentation!
    Extension <Help-Center/Extension/index>
    App <Help-Center/App/index>
    
+   
+.. toctree::
+   :caption: Roadmap
+   :maxdepth: 1  
+   Roadmap
+   
+   
+.. toctree::
+   :caption: Links
+   :maxdepth: 1   
+   Links
+
 
 .. toctree::
-
-   Roadmap
-   Links
+   :caption: Terms of Service
+   :maxdepth: 1   
+   Terms of Service <Terms-of-Service>
