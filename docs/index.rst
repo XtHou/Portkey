@@ -32,5 +32,4 @@ Welcome to Portkey's documentation!
 
 
 .. toctree::
-   :caption: Terms of Service
    Terms of Service <Terms-of-Service/Terms-of-Service>
