@@ -31,6 +31,5 @@ Welcome to Portkey's documentation!
    Links
 
 
-.. toctree::
-   :maxdepth: 1   
+.. toctree::  
    Terms of Service <Terms-of-Service/index>
