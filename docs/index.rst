@@ -22,13 +22,8 @@ Welcome to Portkey's documentation!
    
    
 .. toctree::
-   :caption: Roadmap 
    Roadmap
-   
-   
-.. toctree:: 
-   :maxdepth: 1    
-   Links
+   Links 
 
 
 .. toctree::  
