@@ -15,7 +15,7 @@ Welcome to Portkey's documentation!
 
 .. toctree::
    :caption: Help Center
-   :maxdepth: 2
+   :maxdepth: 1
    
    Extension <Help-Center/Extension/index>
    App <Help-Center/App/index>
